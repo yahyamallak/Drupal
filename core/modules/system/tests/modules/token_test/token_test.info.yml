@@ -1,0 +1,12 @@
+name: Token test
+type: module
+package: Testing
+# version: VERSION
+dependencies:
+ - drupal:user
+ - drupal:node
+
+# Information added by Drupal.org packaging script on 2022-01-19
+version: '9.3.3'
+project: 'drupal'
+datestamp: 1642607853
